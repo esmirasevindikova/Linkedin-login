@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+section{
+	width: 100%;
+	background: #ffffff;
+}
+.basliq{
+	width: 1349px;
+	height: 66px;
+	background: #ffffff;
+}
+.photo{
+	width: 100%;
+}
+.photo img{
+	width: 130px;
+	height: 75px;
+	margin: 8px 0 0 50px;
+}
+.esas{
+	width: 26%;
+	padding: 24px;
+	box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+    border-radius: 8px;
+    margin: 0 auto;
+    background: white
+}
+.daxil-ol{
+    width: 100%;
+    margin: 10px 0;
+}
+.daxil-ol h1{
+	width: 100%;
+}
+.daxil-ol p{
+	width: 100%;
+}
+.inputlar input{
+
+	width: 100%;
+	border: 1px solid #666666;
+	padding: 18px ;
+	border-radius: 3px;
+	margin-bottom: 10px ;
+	background-color: white;
+	margin: 13px 0;
+}
+.unutdum{
+	width: 100%;
+	margin: 8px 0;
+}
+.unutdum a{
+	width: 100%;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 700;
+	color: #253bd3;
+}
+.button{
+	width: 100%;
+}
+.button button{
+	width: 100%;
+	background-color: #0a66c2;
+	color: white;
+	padding: 16px;
+	border-radius: 30px;
+	border: 0;
+	font-size: 16px;
+	font-weight: 600;
+	margin: 10px 0;
+}
+.xettler{
+	width: 100%;
+	float: left;
+	margin: 4px 0;
+}
+.xett{
+	width: 42%;
+	height: 1px;
+	background-color: #dbdbdb;
+	margin: 10px 0;
+	float: left;
+}
+.OR{
+	float: left;
+	color: #8e8e8e;
+	margin: 0 10px;
+}
+
+.google{
+	width: 100%;
+	border: 1px solid #666666;
+	border-radius: 25px;
+	margin:  40px 0 14px 0;
+	text-align: center;
+	padding: 7px;
+}
+.google img{
+	width: 25px;
+	height: 25px;
+}
+.google a{
+	text-decoration: none;
+	color: #333334;
+	font-size: 18px;
+	text-align: center;
+}
+.apple{
+	width: 100%;
+	border: 1px solid #666666;
+	border-radius: 25px;
+	text-align: center;
+	padding: 7px;
+}
+.apple a{
+	text-decoration: none;
+	color: #333334;
+	font-size: 18px;
+	text-align: center;
+}
+.apple img{
+	width: 25px;
+	height: 25px;
+}
+
